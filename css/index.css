@@ -13,7 +13,7 @@ body{
 .header{
 width: 100%;
 height: 128px;
-background: url(../project05/images/head_bg.jpg) repeat-x;
+background: url(../images/head_bg.jpg) repeat-x;
 }
 .header .center{
     width: 980px;
@@ -30,7 +30,7 @@ background: url(../project05/images/head_bg.jpg) repeat-x;
 }
 .header .center ul {
     padding-left: 230px;
-   background: url(../project05/images/logo.png) no-repeat;
+   background: url(../images/logo.png) no-repeat;
    height: 128px;
    list-style: none;
 }
@@ -48,7 +48,7 @@ background: url(../project05/images/head_bg.jpg) repeat-x;
     font-size: 16px;
 }
 .header .center a:hover,.header .center a:active{
-    background: url(../project05/images/xuanfu.png)
+    background: url(../images/xuanfu.png)
 }
 
 
@@ -94,7 +94,7 @@ background: url(../project05/images/head_bg.jpg) repeat-x;
 }
 .style .left1{
     height: 169px;
-    background: url(../chuandasudi/images/pic01.jpg) no-repeat;
+    background: url(../images/pic01.jpg) no-repeat;
 }
 .style .left2{
     height: 169px;
@@ -102,7 +102,7 @@ background: url(../project05/images/head_bg.jpg) repeat-x;
 }
 .style .left3{
     height: 137px;
-    background: url(../chuandasudi/images/pic02.jpg) no-repeat;
+    background: url(../images/pic02.jpg) no-repeat;
 }
 .style .left4{
     height: 137px;
@@ -110,7 +110,7 @@ background: url(../project05/images/head_bg.jpg) repeat-x;
 }
 .style .center1{
     height: 117px;
-    background: url(../chuandasudi/images/pic03.jpg) no-repeat;
+    background: url(../images/pic03.jpg) no-repeat;
 }
 .style .center2{
     height: 117px;
@@ -118,7 +118,7 @@ background: url(../project05/images/head_bg.jpg) repeat-x;
 }
 .style .center3{
     height: 188px;
-    background: url(../chuandasudi/images/pic04.jpg) no-repeat;
+    background: url(../images/pic04.jpg) no-repeat;
 }
 .style .center4{
     height: 188px;
@@ -127,7 +127,7 @@ background: url(../project05/images/head_bg.jpg) repeat-x;
 .style .right1{
     width: 205px;
     height: 314px;
-    background: url(../chuandasudi/images/pic05.jpg) no-repeat;
+    background: url(../images/pic05.jpg) no-repeat;
 }
 .style .right2{
     height: 314px;
@@ -193,23 +193,23 @@ h2{
 .current02{
     width: 140px;
     height: 38px;
-    background: #f3734e url(../chuandasudi/images/gouwu.jpg) left center no-repeat;
+    background: #f3734e url(../images/gouwu.jpg) left center no-repeat;
     margin: 0 14px;
     line-height: 38px;
     padding-left: 60px;
     color: #fff;
 }
 .match1{
-    background: url(../chuandasudi/images/match01.jpg) center center no-repeat;
+    background: url(../images/match01.jpg) center center no-repeat;
 }
 .match2{
-    background: url(../chuandasudi/images/match02.jpg) center center no-repeat;
+    background: url(../images/match02.jpg) center center no-repeat;
 }
 .match3{
-    background: url(../chuandasudi/images/match03.jpg) center center no-repeat;
+    background: url(../images/match03.jpg) center center no-repeat;
 }
 .match4{
-    background: url(../chuandasudi/images/match04.jpg) center center no-repeat;
+    background: url(../images/match04.jpg) center center no-repeat;
 }
 .current a{
     display: inline-block;
