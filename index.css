@@ -1,0 +1,251 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #fff9ed;
+    font: 14px "微软雅黑";
+}
+.cen{
+    margin: 0 auto;
+}
+/* 通栏 占满屏幕 */
+.header{
+width: 100%;
+height: 128px;
+background: url(../project05/images/head_bg.jpg) repeat-x;
+}
+.header .center{
+    width: 980px;
+    /* height: 128px;
+    background: pink; */
+}
+.header .center h1{
+    /* background: url(../project05/images/logo.png) no-repeat; */
+    float: left;
+    position: relative;
+    left: -999px;
+  
+    
+}
+.header .center ul {
+    padding-left: 230px;
+   background: url(../project05/images/logo.png) no-repeat;
+   height: 128px;
+   list-style: none;
+}
+.header .center ul li{
+    float: left;
+}
+.header .center a{
+    display: block;
+    width: 119px;
+    height: 91px;
+    text-align: center;
+    line-height: 91px;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+.header .center a:hover,.header .center a:active{
+    background: url(../project05/images/xuanfu.png)
+}
+
+
+
+
+.content{
+    width: 980px;
+    /* height: 300px;
+    background: pink; */
+}
+.style_bg{
+    width: 908px;
+    height: 330px;
+    background: #ec6e47;
+    padding: 10px 36px 5px;
+}
+.style{
+    width: 892px;
+    height: 314px;
+    background: #fff;
+    padding: 8px 10px 8px 6px;
+}
+.style dl{
+    width: 279px;
+    height: 313px;
+    float: left;
+    margin-left:4px; 
+}
+.style .third{
+    width: 322px;
+}
+.style dt,.style dd{
+    float: left;
+}
+.style .left1,.style .left3,.style .center1,.style .center3{
+    width: 162px;
+}
+.style .left2,.style .left4,.style .center2,.style .center4,.style .right2{
+    width: 117px;
+}
+.style .left1,.style .left2,.style .center1 ,.style .center2{
+    margin-bottom: 8px;
+}
+.style .left1{
+    height: 169px;
+    background: url(../chuandasudi/images/pic01.jpg) no-repeat;
+}
+.style .left2{
+    height: 169px;
+    line-height: 169px;
+}
+.style .left3{
+    height: 137px;
+    background: url(../chuandasudi/images/pic02.jpg) no-repeat;
+}
+.style .left4{
+    height: 137px;
+    line-height: 137px;
+}
+.style .center1{
+    height: 117px;
+    background: url(../chuandasudi/images/pic03.jpg) no-repeat;
+}
+.style .center2{
+    height: 117px;
+    line-height: 117px;
+}
+.style .center3{
+    height: 188px;
+    background: url(../chuandasudi/images/pic04.jpg) no-repeat;
+}
+.style .center4{
+    height: 188px;
+    line-height: 188px;
+}
+.style .right1{
+    width: 205px;
+    height: 314px;
+    background: url(../chuandasudi/images/pic05.jpg) no-repeat;
+}
+.style .right2{
+    height: 314px;
+    line-height: 314px
+}
+.style a{
+    display: block;
+    background: #242424;
+    text-align: center;
+    color: #fff;
+}
+.style a:hover{
+    background: #ea6c46;
+}
+
+
+
+
+
+
+
+h2{
+    width: 259px;
+    height: 45px;
+    background: #ea6c46;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 45px;
+    text-align: center;
+    color: #fff;
+    margin-top: 80px;
+    /* margin: 0 auto; */
+    margin-left:442px ;
+}
+.current{
+    width: 958px;
+    height: 342px;
+    background: #fff;
+    border: 1px solid #dcd2ba;
+    padding: 13px 0 0 20px;
+}
+.current dl{
+    width: 229px;
+    height: 330px;
+    border: 1px solid #dcd2ba;
+    float: left;
+    margin-right: 5px;
+}
+.current dt{
+    width: 229px;
+    height: 212px;
+    border-bottom: 1px solid #dcd2ba;
+}
+.current01{
+    width: 229px;
+    height: 66px;
+    background: #fff;
+    line-height: 66px;
+    color: #7a7a7a;
+    font-size: 22px;
+    text-align: center;
+}
+.current02{
+    width: 140px;
+    height: 38px;
+    background: #f3734e url(../chuandasudi/images/gouwu.jpg) left center no-repeat;
+    margin: 0 14px;
+    line-height: 38px;
+    padding-left: 60px;
+    color: #fff;
+}
+.match1{
+    background: url(../chuandasudi/images/match01.jpg) center center no-repeat;
+}
+.match2{
+    background: url(../chuandasudi/images/match02.jpg) center center no-repeat;
+}
+.match3{
+    background: url(../chuandasudi/images/match03.jpg) center center no-repeat;
+}
+.match4{
+    background: url(../chuandasudi/images/match04.jpg) center center no-repeat;
+}
+.current a{
+    display: inline-block;
+    width: 180px;
+    color: #fff;
+    height: 38px;
+}
+
+
+
+
+
+.footer{
+    width: 100%;
+    height: 103px;
+    background: #020202;
+    color: #fff;
+    line-height: 26px;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 65px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
